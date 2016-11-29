@@ -1,6 +1,9 @@
 # giFBot
 Gif Bot for Facebook Messenger
 
+# Interface
+Add my good friend 'Gif Bot' to your facebook chat conversation. Then send him a message in this format: 'GIF <searchterm>'. He'll search for a random gif related to your search term.
+
 # Setup
 Run npm install
 
